@@ -1,0 +1,21 @@
+body {
+    color : black;
+    padding : 10px;
+}
+
+#moreDescription{
+    float: right;
+    clear: right;
+}
+#reviews{
+    text-align : center;
+}
+#name{
+    font-style : bold;
+    font-size: x-large;
+}
+
+#content{
+    font-style: italic;
+
+}
